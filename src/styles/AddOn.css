@@ -1,0 +1,15 @@
+.add-on{
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+.add-ons{
+    /* add box shadow here */
+    box-shadow: 0 0 10px rgba(0,0,0,0.2);
+    width: 70%;
+    padding: 25px;
+    background-color: white;
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 25px;
+}
